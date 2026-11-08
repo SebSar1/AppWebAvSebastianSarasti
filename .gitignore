@@ -6,3 +6,5 @@ bin
 obj
 *.user
 /WebAppPoliMusicV2/.workbuddy-ai/memory
+/packages
+/.workbuddy-ai/memory
